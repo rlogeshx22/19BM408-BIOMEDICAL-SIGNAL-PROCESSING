@@ -35,8 +35,9 @@ MATLAB provides functions such as findpeaks() that help detect QRS complexes aut
 6.	Display the result.
 
 # MATLAB CODE :
-
+<img width="1080" height="761" alt="image" src="https://github.com/user-attachments/assets/68e10d8a-7290-410e-acf1-3542376b9bf1" />
 # OUTPUT GRAPH :
+<img width="1432" height="859" alt="image" src="https://github.com/user-attachments/assets/e9725670-34b3-4c22-bf65-e2124413ad08" />
 
 # RESULT :
 The ECG signal was analyzed and QRS complexes were successfully detected using MATLAB.
